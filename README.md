@@ -10,6 +10,11 @@ This project is a basic calculator implemented using HTML and CSS.
 - **Responsive Design**: Ensures the calculator adjusts to different screen sizes.
 - ⁠**Clear Button**: Allows the user to clear the input for starting a new calculation.
 
+## Output
+
+<img width="246" alt="image" src="https://github.com/user-attachments/assets/dd720635-9d94-4e63-a7a3-1f270d31d3fa">
+
+
 ## Installation and Usage
 
 
@@ -30,6 +35,16 @@ This project is a clone of the Myntra website, implemented using HTML and CSS fo
 - **Responsive Design**: Ensures the website is usable on different screen sizes.
 - **CSS Styling**: Custom CSS to mimic Myntra's visual style.
 
+## Output
+<img width="389" alt="image" src="https://github.com/user-attachments/assets/68ea1c1c-adbe-43e3-9344-e2d7adddaf27">
+<img width="386" alt="image" src="https://github.com/user-attachments/assets/37bf0f42-8875-447d-b45f-6ab871ef8ad1">
+<img width="386" alt="image" src="https://github.com/user-attachments/assets/dc32d0e0-0240-4d1c-aeb8-52857d8f1cb4">
+
+
+
+
+
+
 ## Installation and Usage
 
 1. **Clone the repository**:
@@ -47,6 +62,12 @@ This project is a simple To-Do List application implemented using HTML, CSS, and
 - ⁠**Mark Completed**: Click on the checkbox to mark a task as completed.
 - ⁠**Local Storage**: Tasks are stored in the browser's local storage for persistence.
 
+## output
+
+<img width="330" alt="image" src="https://github.com/user-attachments/assets/0854e976-950c-4fe8-a729-2eca4caa323e">
+
+
+
 ## Installation and Usage
 
 1. **Clone the repository**:
@@ -62,6 +83,12 @@ This project is a browser-based implementation of the classic Connect-4 game usi
 - **Dynamic Board**: Visual representation of the game board with interactive dropping discs.
 - **Win Detection**: Automatically detects and highlights winning moves.
 - **Restart Game**: Option to restart the game after a win or draw.
+
+## Output
+
+<img width="341" alt="image" src="https://github.com/user-attachments/assets/4f3a61cf-87df-4cf1-a8e6-cc35aca6acf7">
+
+
 
 ## Installation and Usage
 
