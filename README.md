@@ -1,5 +1,4 @@
 # SUMMER-INTERNSHIP-1
-# SUMMER INTERNSHIP
 # Week-1 Simple Calculator
 
 This project is a basic calculator implemented using HTML and CSS.
